@@ -38,7 +38,7 @@
     },
     "devDependencies": {
         "@fluffy-spoon/substitute": "^1.208.0",
-        "@typescript-eslint/eslint-plugin": "^7.0.0",
+        "@typescript-eslint/eslint-plugin": "^8.19.1",
         "@typescript-eslint/parser": "^6.9.0",
         "@vitest/coverage-v8": "^2.0.3",
         "esbuild": "^0.23.0",
